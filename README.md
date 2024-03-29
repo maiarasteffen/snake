@@ -5,7 +5,6 @@ Esse jogo fiz como parte de treinamento para javascript, desenvolvendo melhor mi
 ## Índice
 
 - [Overview](#overview)
-  - [Print do Projeto](#print-do-projeto)
   - [Links](#links)
 - [Meu processo](#meu-processo)
   - [Construído com](#construído-com)
@@ -28,8 +27,6 @@ Esse jogo fiz como parte de treinamento para javascript, desenvolvendo melhor mi
 - Eixo X e Y;
 - Style dentro do Javascript para colisão;
 - Atributo Keydown para configurar as setas;
-
-
 
 ### O que aprendi
 
